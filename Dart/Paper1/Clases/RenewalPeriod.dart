@@ -1,0 +1,7 @@
+
+enum RenewalPeriod {
+  
+  Monthly,
+  Yearly
+  
+}
