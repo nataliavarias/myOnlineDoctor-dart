@@ -1,4 +1,4 @@
-abstract class Metric {
+class Metric {
 
   // Atributos
     String name;
