@@ -1,5 +1,5 @@
 # myOnlineDoctor-dart
-Repositorio del proyecto myOnlineDoctor - 2022
+Repositorio del Proyecto myOnlineDoctor - 2022
 
 | Integrantes | Aporte |
 | --- | --- |
