@@ -9,11 +9,11 @@ Repositorio del proyecto myOnlineDoctor - 2022
 
 **Pasos para ejecutar este código:**
 
-**1.** Tener las siguientes instalaciones:
-**a.** VsCode: https://code.visualstudio.com/
-**b.** Dart: https://dart.dev/
-**c.** Extensión de Dart: https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code
-**d.** Terminal: https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal
+- **1.** Tener las siguientes instalaciones:
+- **a.** VsCode: https://code.visualstudio.com/
+- **b.** Dart: https://dart.dev/
+- **c.** Extensión de Dart: https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code
+- **d.** Terminal: https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal
 
 **2.** Descargar este código, colocarlo en el Escritorio y en la Terminal de VsCode colocar el comando 'dart Clases/main.dart'.
 
